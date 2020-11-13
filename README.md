@@ -1,1 +1,1 @@
-x = local
+x = both
